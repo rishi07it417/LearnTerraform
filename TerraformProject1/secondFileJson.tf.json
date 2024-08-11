@@ -1,0 +1,23 @@
+ [
+    {
+        "output" : {
+             "jsonfile1" : {
+                "value":"JSON first TF file"
+            }       
+        }
+    },
+    { 
+        "output" : {
+             "jsonfile2" : {
+                "value":"JSON second TF file"
+            }       
+        }
+    },
+    {
+        "output" : {
+             "jsonfile3" : {
+                "value":"JSON third TF file"
+            }       
+        }
+    }
+]
