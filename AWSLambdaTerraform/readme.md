@@ -1,0 +1,1 @@
+https://github.com/prameshbhattarai/java-lambda-terraform/blob/master/terraform/iam-role.tf
